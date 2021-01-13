@@ -29,6 +29,8 @@
  [6] [ ] [ ] [ ]
  ```
  
+ which is functionally identical to (5 + 7) / sqrt(4)
+ 
  ### operators
  
  #### binary arithmetic `+`, `-`, `*`, `/`
